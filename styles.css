@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #121212;
+    height: 100vh;
+}
+
+.header {
+    color: #f1f1f1;
+    font-size: 30px;
+}
+
+#timer {
+    color: #f1f1f1;
+    font-size: 36px;
+}
